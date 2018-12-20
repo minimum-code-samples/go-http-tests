@@ -1,0 +1,7 @@
+dist/
+node_modules/
+*~
+*swp
+/bin
+/target
+*.js.map
